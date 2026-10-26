@@ -1,3 +1,4 @@
+<img width="720" height="720" alt="Logo Parcial" src="https://github.com/user-attachments/assets/fd554c2c-9dee-49fa-a455-d1a6caaa4bc0" />
 # Parcial-2
 (Desarrollado para un trabajo Académico)
 Creado con uso de IA
