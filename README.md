@@ -5,7 +5,7 @@
 (Desarrollado para un trabajo Académico)
 Creado con uso de IA
 
-Nombre: VitalHome S.A.S. – Atención médica domiciliaria a tu alcance.
+Nombre: Vida Serena S.A.S. – Atención médica domiciliaria a tu alcance.
 
 Misión: Brindar un servicio de atención y prevención médica domiciliaria accesible, rápido y confiable, garantizando un acompañamiento integral y transparente para la tranquilidad de los hogares.
 
